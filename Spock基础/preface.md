@@ -3,4 +3,4 @@
 参考[Groovy documentation](http://groovy-lang.org/documentation.html)。  
 这一章节的目标是教会你足够的可以编写符合Spock规范的的知识，并引起你想要了解更多的欲望。  
 更多关于Groovy的介绍请移步 http://groovy-lang.org/。
-更多关于单元测试的介绍请移步 http://en.wikipedia.org/wiki/Unit_testing。
+更多关于单元测试的介绍请移步 http://en.wikipedia.org/wiki/Unit_testing。 
